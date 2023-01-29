@@ -1,3 +1,14 @@
+<!--
+    /**
+ *     Header.
+ *     Project for South East Technological University
+ *     @Janusz Czeropski C00176885@itcarlow.ie 
+ *     2023
+ */
+-->
+
+
+
 <head>
 
 		<!-- Basic -->
@@ -23,8 +34,12 @@
 		<!-- Boostrap CSS -->
 		<link rel="stylesheet" href="css/bootstrap.min.css">
 
+        <!-- custom css-->
+		<link rel="stylesheet" href="css/custom.css">
+
         <!-- Boostrap JS -->
 		<link rel="stylesheet" href="js/bootstrap.min.js">
+       
         
         <!-- Jquery JS -->
         <link rel="stylesheet" href="js/jquery-3.6.3.min.js">

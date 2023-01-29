@@ -10,7 +10,7 @@
 //Disallow Search Engine
 if (!empty($_SERVER['HTTP_USER_AGENT']) and preg_match('~(bot|crawl)~i', $_SERVER['HTTP_USER_AGENT'])) {
 
-    echo 'Sorry Not Bot Allowed On This Project';
+    echo 'Sorry No Bot Allowed On This Project';
 
  }
 
